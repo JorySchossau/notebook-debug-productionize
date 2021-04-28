@@ -7,6 +7,7 @@ I also added easy live notebook development and debugging within that pipeline w
 ### Technology I Used
 
 * Python (`conducto-notebook` tool, and general server-side code)
+* AWS (server-side administration and database inspection)
 * Rust (for cloud worker client code)
 * React (for web UI)
 * Docker (for exec environment automation)
